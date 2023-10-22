@@ -13,7 +13,7 @@ class Adulto (
     }
 
     override fun obtenerEdad(): String {
-        return "Mi Actividad es: ${this.edad}"
+        return "Mi Edad es: ${this.edad}"
     }
 
     override fun trabajar(): String {
